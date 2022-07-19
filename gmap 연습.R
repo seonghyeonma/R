@@ -3,7 +3,7 @@
 library (ggplot2)
 library (ggmap)
 dev.off()
-mykey = "AIzaSyCjzeKUA70bkbPnz1k3sYQZICAw8xxDMmg"
+mykey = "Use personal key"
 register_google(key=mykey)
 
 ##Test1 
